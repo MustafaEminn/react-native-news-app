@@ -1,5 +1,5 @@
 # react-native-news-app
-**API free olduğu için bazı kısımlar çok detaylı olamadı ne yazık ki.**
+**News details section is look bad because api is free. Sorry.**
 
 Format: ![PhotoOne](https://i.hizliresim.com/Rwtez9.jpg)
 
